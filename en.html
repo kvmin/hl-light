@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HL Light - Privacy Policy (English)</title>
+  <style>
+:root {
+  --bg-color: #f7f9fa;
+  --card-bg: #ffffff;
+  --text-primary: #1d1d1f;
+  --text-secondary: #515154;
+  --border-color: #e5e5ea;
+  --link-color: #0071e3;
+  --accent-color: #0071e3;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #0f1115;
+    --card-bg: #1c1e24;
+    --text-primary: #f5f5f7;
+    --text-secondary: #a1a1a6;
+    --border-color: #2c2f36;
+    --link-color: #2997ff;
+    --accent-color: #2997ff;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+  margin: 0;
+  padding: 24px 16px;
+}
+.container {
+  max-width: 820px;
+  margin: 0 auto;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 40px 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+}
+@media (max-width: 600px) {
+  .container { padding: 24px 18px; }
+}
+.lang-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-bottom: 24px;
+  margin-bottom: 32px;
+  border-bottom: 1px solid var(--border-color);
+}
+.lang-btn {
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  text-decoration: none;
+  background: var(--bg-color);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  transition: all 0.2s ease;
+}
+.lang-btn:hover {
+  color: var(--link-color);
+  border-color: var(--link-color);
+}
+.lang-btn.active {
+  background: var(--accent-color);
+  color: #fff;
+  border-color: var(--accent-color);
+  font-weight: 600;
+}
+h1 { font-size: 26px; margin-top: 0; color: var(--text-primary); }
+h2 { font-size: 19px; margin-top: 32px; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; }
+h3 { font-size: 16px; margin-top: 20px; }
+p, li { font-size: 15px; color: var(--text-secondary); }
+strong { color: var(--text-primary); }
+ul { padding-left: 20px; margin: 10px 0; }
+li { margin-bottom: 6px; }
+hr { border: 0; height: 1px; background: var(--border-color); margin: 28px 0; }
+a { color: var(--link-color); text-decoration: none; word-break: break-all; }
+a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <div class="container">
+    <nav class="lang-bar"><a href="zh-Hans.html" class="lang-btn">简体中文</a>
+<a href="zh-Hant.html" class="lang-btn">繁體中文</a>
+<a href="en.html" class="lang-btn active">English</a>
+<a href="de.html" class="lang-btn">Deutsch</a>
+<a href="fr.html" class="lang-btn">Français</a>
+<a href="es.html" class="lang-btn">Español</a>
+<a href="it.html" class="lang-btn">Italiano</a>
+<a href="ru.html" class="lang-btn">Русский</a>
+<a href="ja.html" class="lang-btn">日本語</a></nav>
+    <article>
+      <h1>HL Light Privacy Policy</h1>
+<p><strong>Last Updated</strong>: October 26, 2026</p>
+<p><strong>Effective Date</strong>: October 26, 2026</p>
+<p>Welcome to HL Light! HL Light ("the Application") is a smart Bluetooth lighting control utility designed for automotive lights, car ambient lights, interior mood lamps, and LED strips. We are deeply committed to protecting your privacy. This Privacy Policy explains our data handling practices and how system permissions are utilized.</p>
+<hr />
+<h2>1. No Personal Data Collected</h2>
+<p>1. <strong>No Account Required</strong>: The Application operates entirely as a local hardware controller. All features can be used without creating an account or logging in.</p>
+<p>2. <strong>Zero Personally Identifiable Information</strong>: We do not collect, request, or store your name, phone number, email address, physical location, facial data, or any other sensitive personal data.</p>
+<p>3. <strong>No User Tracking or Ads</strong>: The Application contains no third-party advertising SDKs or tracking frameworks. We do not access Identifier for Advertisers (IDFA) or track you across other applications.</p>
+<hr />
+<h2>2. System Permissions and Usage</h2>
+<p>The Application only requests permissions that are strictly necessary to communicate with and control your lighting equipment:</p>
+<p>1. <strong>Bluetooth Permission (BLE)</strong></p>
+<ul>
+<li><strong>Purpose</strong>: Used to scan, discover, pair, and connect with your smart car lights, ambient lamps, or LED strips via Bluetooth Low Energy (BLE), and send commands (color adjustments, dynamic modes, brightness, and speed).</li>
+<li><strong>Details</strong>: All Bluetooth communication takes place strictly peer-to-peer between your mobile device and the physical lighting hardware. No data is ever transmitted over the Internet.</li>
+</ul>
+<p>2. <strong>Microphone Permission</strong></p>
+<ul>
+<li><strong>Purpose</strong>: Requested strictly when you choose to use the "Music Sync" or "Sound Reactive" modes to capture ambient sounds or music beats.</li>
+<li><strong>Details</strong>: Audio signals are processed in real-time strictly in volatile device memory using Fast Fourier Transform (FFT) analysis to generate light sync patterns. We never record, save, store, playback, or upload your audio files. Microphone listening stops immediately when you exit the feature.</li>
+</ul>
+<p>3. <strong>Local Storage Permission</strong></p>
+<ul>
+<li><strong>Purpose</strong>: Used solely to save your custom lighting profiles, LED chip counts, and RGB wiring configurations in your device's private sandbox storage.</li>
+<li><strong>Details</strong>: All settings remain solely on your device and are permanently deleted by the operating system if you uninstall the Application.</li>
+</ul>
+<hr />
+<h2>3. Third-Party Services and Data Sharing</h2>
+<p>The Application does not utilize any third-party analytics, marketing, or advertising services. We do not sell, rent, lease, or share any user data with any third party.</p>
+<hr />
+<h2>4. Children's Privacy</h2>
+<p>The Application does not target or provide specialized services to children under 13, and does not collect any information from children.</p>
+<hr />
+<h2>5. Changes to This Policy</h2>
+<p>We may update this Privacy Policy from time to time. Any changes will be published directly on this page or outlined in the release notes.</p>
+<hr />
+<h2>6. Contact Us</h2>
+<p>If you have any questions or feedback regarding this Privacy Policy, please contact us:</p>
+<ul>
+<li><strong>Developer</strong>: zshl-iot</li>
+<li><strong>Support & Privacy Email</strong>: support@zshl-iot.com</li>
+<li><strong>Official Repository</strong>: https://github.com/kvmin/hl-light</li>
+</ul>
+    </article>
+  </div>
+</body>
+</html>
