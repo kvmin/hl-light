@@ -56,5 +56,5 @@ Wir behalten uns vor, diese Erklärung bei Bedarf anzupassen. Aktualisierte Fass
 Bei Fragen zu dieser Datenschutzerklärung oder zum Datenschutz erreichen Sie uns unter:
 
 - **Entwickler**: zshl-iot
-- **Support- und Datenschutz-E-Mail**: support@zshl-iot.com
+- **Support- und Datenschutz-E-Mail**: leiwenjun.hl@gmail.com
 - **Repository**: https://github.com/kvmin/hl-light

@@ -56,5 +56,5 @@
 若您对本隐私政策或个人信息保护有任何疑问、意见或建议，请通过以下方式与我们联系：
 
 - **开发者**：zshl-iot
-- **技术支持与隐私邮箱**：support@zshl-iot.com
+- **技术支持与隐私邮箱**：leiwenjun.hl@gmail.com
 - **官方代码仓库**：https://github.com/kvmin/hl-light

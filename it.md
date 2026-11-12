@@ -56,5 +56,5 @@ La presente Informativa sulla privacy può essere aggiornata periodicamente. Le 
 Per qualsiasi chiarimento in merito alla presente informativa:
 
 - **Sviluppatore**: zshl-iot
-- **E-mail di supporto e privacy**: support@zshl-iot.com
+- **E-mail di supporto e privacy**: leiwenjun.hl@gmail.com
 - **Repository ufficiale**: https://github.com/kvmin/hl-light

@@ -56,5 +56,5 @@ HL Light（以下「本アプリ」）をご利用いただきありがとうご
 本プライバシーポリシーに関するご質問やお問い合わせは、下記までご連絡ください。
 
 - **開発元**：zshl-iot
-- **サポート・プライバシー窓口**：support@zshl-iot.com
+- **サポート・プライバシー窓口**：leiwenjun.hl@gmail.com
 - **公式リポジトリ**：https://github.com/kvmin/hl-light

@@ -56,5 +56,5 @@
 若您對本隱私權政策或個人資料保護有任何疑問、意見或建議，請透過以下方式與我們聯絡：
 
 - **開發者**：zshl-iot
-- **技術支援與隱私郵箱**：support@zshl-iot.com
+- **技術支援與隱私郵箱**：leiwenjun.hl@gmail.com
 - **官方程式碼倉庫**：https://github.com/kvmin/hl-light

@@ -56,5 +56,5 @@ Cette politique de confidentialité peut être mise à jour. Toute version actua
 Pour toute question concernant cette politique de confidentialité :
 
 - **Développeur** : zshl-iot
-- **E-mail de support et confidentialité** : support@zshl-iot.com
+- **E-mail de support et confidentialité** : leiwenjun.hl@gmail.com
 - **Dépôt officiel** : https://github.com/kvmin/hl-light

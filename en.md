@@ -56,5 +56,5 @@ We may update this Privacy Policy from time to time. Any changes will be publish
 If you have any questions or feedback regarding this Privacy Policy, please contact us:
 
 - **Developer**: zshl-iot
-- **Support & Privacy Email**: support@zshl-iot.com
+- **Support & Privacy Email**: leiwenjun.hl@gmail.com
 - **Official Repository**: https://github.com/kvmin/hl-light

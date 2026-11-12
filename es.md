@@ -56,5 +56,5 @@ Nos reservamos el derecho de actualizar esta Política de Privacidad periódicam
 Si tiene preguntas sobre esta Política de Privacidad:
 
 - **Desarrollador**: zshl-iot
-- **Correo de soporte y privacidad**: support@zshl-iot.com
+- **Correo de soporte y privacidad**: leiwenjun.hl@gmail.com
 - **Repositorio oficial**: https://github.com/kvmin/hl-light
